@@ -1,6 +1,6 @@
 # 🍩 AI Smart Menu & Recipe Optimization Agent
 
-An AI-powered restaurant analytics dashboard for Tim Hortons that uses **Amazon Bedrock (Nova Pro)** and **DynamoDB** to deliver intelligent menu optimization insights through a conversational chat interface.
+An AI-powered restaurant analytics dashboard for Restaurant that uses **Amazon Bedrock (Nova Pro)** and **DynamoDB** to deliver intelligent menu optimization insights through a conversational chat interface.
 
 ![Dashboard Screenshot](frontend/screen.png)
 
